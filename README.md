@@ -1,25 +1,24 @@
-# 추천 시스템
-
+# How_to_do_style_transfer_in_tensorflow
 
 ##개요
 
-이 코드는 Siraj Raval 의 [유투브 영상](https://youtu.be/18adykNGhHU)에 대한 것입니다. 우리가 살펴볼 것은 추천 시스템이고, 유명도, 사물-사물 필터링, 사용자-사물 필터링에 중점을 둘 것입니다. 그리고 마지막으로는 최첨단 방식인 딥러닝에 대해 알아볼 것입니다.
+이것은 Udacity 의 "Intro to Deep Learning Nanodegree" 의 일부인 Siraj Raval 의 Youtube [영상](https://youtu.be/Oex0eWoU7AQ)의 코드입니다. 우리는 2014년 특정 이미지의 스타일을 다른 이미지로 전달하는 이미지 식별법으로 ImageNet 대회에서 우승한 미리 훈련된 VGG16 합성곱 신경망을 다른 목적으로 사용해볼 것입니다 [이것](https://arxiv.org/abs/1508.06576)이 기존 주제의 논문입니다.
 
 
 ##종속성
 
-* pandas
-* scikit-learn
-* numpy
-* scipy
+* tensorflow 
+* matplotlib 
+* python 3
 
-[pip](https://pip.pypa.io/en/stable/) 를 사용하여 설치합니다. 
-
+[pip](https://pip.pypa.io/en/stable/installing/)를 사용하여 설치합니다
 
 ##사용법
 
-디렉토리 최상위 레벨에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다.
+디렉토리 최상위 레벨에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다
+
 
 ##참조
 
-이 코드는 [dvysardana](https://github.com/dvysardana) 의 코드를 참조하여 알기 쉽게 편성한 것입니다. 
+이 코드는 [Aniruddha-Tapas](https://github.com/Aniruddha-Tapas)의 코드를 참조하여 알기 쉽게 편성한 것입니다.
+
