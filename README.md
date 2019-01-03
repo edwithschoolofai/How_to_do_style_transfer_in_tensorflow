@@ -1,24 +1,25 @@
-# How_to_do_style_transfer_in_tensorflow
-
-##Overview
-
-This is the code for [this](https://youtu.be/Oex0eWoU7AQ) video on Youtube by Siraj Raval as part of the Intro to Deep Learning Nanodegree with Udacity. We're going to re-purpose the pre-trained VGG16 convolutional network that won the ImageNet competition in 2014 for image classification to transfer the style of a given image to another. [This](https://arxiv.org/abs/1508.06576) is the original paper on the topic.
+# 추천 시스템
 
 
-##Dependencies
+##개요
 
-* tensorflow 
-* matplotlib 
-* python 3
-
-Use [pip](https://pip.pypa.io/en/stable/installing/) to install missing dependencies
-
-##Usage
-
-Run `jupyter notebook` in the top level directory and the code will pop up in your browser.
+이 코드는 Siraj Raval 의 [유투브 영상](https://youtu.be/18adykNGhHU)에 대한 것입니다. 우리가 살펴볼 것은 추천 시스템이고, 유명도, 사물-사물 필터링, 사용자-사물 필터링에 중점을 둘 것입니다. 그리고 마지막으로는 최첨단 방식인 딥러닝에 대해 알아볼 것입니다.
 
 
-##Credits
+##종속성
 
-The credits for this code go to [Aniruddha-Tapas](https://github.com/Aniruddha-Tapas). I've merely created a wrapper to get people started.
+* pandas
+* scikit-learn
+* numpy
+* scipy
 
+[pip](https://pip.pypa.io/en/stable/) 를 사용하여 설치합니다. 
+
+
+##사용법
+
+디렉토리 최상위 레벨에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다.
+
+##참조
+
+이 코드는 [dvysardana](https://github.com/dvysardana) 의 코드를 참조하여 알기 쉽게 편성한 것입니다. 
