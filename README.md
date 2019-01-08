@@ -2,8 +2,7 @@
 
 ##개요
 
-이것은 Udacity 의 "Intro to Deep Learning Nanodegree" 의 일부인 Siraj Raval 의 Youtube [영상](https://youtu.be/Oex0eWoU7AQ)의 코드입니다. 우리는 2014년 특정 이미지의 스타일을 다른 이미지로 전달하는 이미지 식별법으로 ImageNet 대회에서 우승한 미리 훈련된 VGG16 합성곱 신경망을 다른 목적으로 사용해볼 것입니다 [이것](https://arxiv.org/abs/1508.06576)이 기존 주제의 논문입니다.
-
+Udacity "Intro to Deep Learning Nanodegree" 강의의 일부인 Siraj Raval 의 Youtube [영상](https://youtu.be/Oex0eWoU7AQ)을 위한 코드입니다. 특정 이미지의 스타일을 다른 이미지로 전달하는 이미지 식별법으로 2014년 ImageNet 대회에서 우승한 미리 훈련된 VGG16 합성곱 신경망을 다른 목적으로 사용해볼 것입니다. 기존 [논문](https://arxiv.org/abs/1508.06576)을 참고하시길 바랍니다.
 
 ##종속성
 
@@ -11,11 +10,11 @@
 * matplotlib 
 * python 3
 
-[pip](https://pip.pypa.io/en/stable/installing/)를 사용하여 설치합니다
+[pip](https://pip.pypa.io/en/stable/installing/)를 사용하여 설치합니다.
 
 ##사용법
 
-디렉토리 최상위 레벨에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다
+디렉토리 최상위 레벨에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다.
 
 
 ##참조
