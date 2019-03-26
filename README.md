@@ -16,6 +16,9 @@ Udacity "Intro to Deep Learning Nanodegree" 강의의 일부인 Siraj Raval 의 
 
 디렉토리 최상위 레벨에서 `jupyter notebook` 을 실행하면 브라우저에 코드가 나타납니다.
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/How_to_do_style_transfer_in_tensorflow/blob/master/Style_Transfer.ipynb
+) 
 
 ## 참조
 
